@@ -2,7 +2,7 @@
 
 Estou no segundo Semestre de Sistemas de informação/UFPA. Possuo sólida base em lógica de programação, experiência prática com Python e forte vivência em bancos de dados relacionais e SQL.
 
-Atualmente atuo como estagiário de desenvolvimento de software no CEPS/UFPA, onde trabalho com Python, Django e manipulação de dados relacionais. Além disso, possuo projetos focados em tratamento, limpeza de dados, construção de pipelines ETL e consumo de APIs REST, a exemplo do Potencial Solar Belém (extração, tratamento, orquestração e carga via BigQuery)[cite: 1] e de Análise de Risco em Marituba (processamento de bases brutas com Pandas e modelagem).
+Atualmente atuo como estagiário de desenvolvimento de software no CEPS/UFPA, onde trabalho com Python, Django e manipulação de dados relacionais. Além disso, possuo projetos focados em tratamento, limpeza de dados, construção de pipelines ETL e consumo de APIs REST, a exemplo do Potencial Solar Belém (extração, tratamento, orquestração e carga via BigQuery) e de Análise de Risco em Marituba (processamento de bases brutas com Pandas e modelagem).
 
 ---
 
