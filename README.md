@@ -13,7 +13,7 @@ Explore abaixo os meus principais projetos e entregas em desenvolvimento e dados
 ### ☀️ 1. Análise de Potencial e Geração de Energia Solar (Belém-PA)
 🔗 **Repositório:** [github.com/HigorGRP/potencial-solar-belem](https://github.com/HigorGRP/potencial-solar-belem)
 
-> Pipeline ETL em Python para extração de séries temporais climáticas via API REST (Open-Meteo), com orquestração de dados e integração ao Google BigQuery[cite: 1]. Aplicação de regras de negócio para classificação de potencial solar e dashboard interativo no Power BI e Streamlit correlacionando irradiância e geração fotovoltaica.
+> Pipeline ETL em Python para extração de séries temporais climáticas via API REST (Open-Meteo), com orquestração de dados e integração ao Google BigQuery. Aplicação de regras de negócio para classificação de potencial solar e dashboard interativo no Power BI e Streamlit correlacionando irradiância e geração fotovoltaica.
 
 ---
 
